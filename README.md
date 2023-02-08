@@ -1,2 +1,2 @@
-Hi my name is Joceline Garcia /n
+Hi my name is Joceline Garcia <br/>
 CS @ Queens College 
