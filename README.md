@@ -1,2 +1,3 @@
-Hi my name is Joceline Garcia <br/>
-CS @ Queens College 
+Welcome, I am Joceline Garcia ☺︎ </br>
+Computer Science @Queens College '23
+Current Software Engineer 
